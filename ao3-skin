@@ -1,7 +1,10 @@
+/* shorter tag fields */
 li.blurb .tags {
   max-height: 10em;
   overflow-y: auto;
 }
+
+/* Reversi */
 
 #outer .region,
 #footer .group,
@@ -359,6 +362,8 @@ form dd.required {
   color: #eee;
 }
 
+/* Tag colors/borders */
+
 a.tag,
 a.tag:visited,
 a.tag:link {
@@ -453,7 +458,7 @@ h5.fandoms a.tag:nth-of-type(3n+3) {
 }
 
 .tags li.warnings a.tag:hover {
-  background-color: #9E1520;
+  background-color: #9E1520 !important;
   color: white;
 }
 

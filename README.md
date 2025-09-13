@@ -15,3 +15,4 @@ I also edited the skin beyond just combining the above:
 * The visited link color is adjusted slightly so it contrasts more with the background.
 * Only non-"No Archive Warnings Apply" warnings are highlighted. (I tried to do something similar with Explicit/Mature/Not Rated tags on work pages, but couldn't quite manage it ^^:)
 
+This skin might be edited once in a while as I refine it. 
